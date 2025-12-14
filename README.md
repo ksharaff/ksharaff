@@ -2,7 +2,6 @@
 
 Passionate about **mobile app development**, **web development**, **cloud**.
 
-I like to blend **functionality** with **aesthetic design** 🎨
 
 <p align="center">
 
