@@ -1,6 +1,6 @@
 **Computer Science & Engineering graduate** from Özyeğin University  
 
-Passionate about **mobile app development**, **web development**, **cloud**, and **cybersecurity**.
+Passionate about **mobile app development**, **web development**, **cloud**.
 
 I like to blend **functionality** with **aesthetic design** 🎨
 
