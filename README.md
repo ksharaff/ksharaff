@@ -1,6 +1,6 @@
-**Computer Science & Engineering graduate** from Özyeğin University  
+**Computer Science & Engineering graduate** @ Özyeğin University  
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,git,linux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,git,linux,aws,docker)](https://skillicons.dev)
 
 </p>
